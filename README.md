@@ -45,6 +45,8 @@ The app includes an instant messaging feature that facilitates seamless communic
 - Authentication: Flutter Flow integrates authentication functionality, allowing users to register, log in, and securely access the app's features.
 - Custom Functions: Custom functions are implemented to enhance user experience and provide additional features specific to ZLife.
 - Custom Widgets: Flutter Flow's flexibility enables the creation of custom widgets to meet the unique requirements of ZLife.
+- Internationalization: ZLife supports internationalization, allowing the app to be localized for different languages and regions.
+- Custom API Calls: Flutter Flow enables the integration of custom API calls, allowing ZLife to communicate with external services and retrieve data.
 - Deep Linking: Deep linking functionality is incorporated, allowing users to navigate directly to specific sections or content within the app.
 
 ## Team Members
