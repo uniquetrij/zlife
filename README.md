@@ -61,5 +61,8 @@ The app includes an instant messaging feature that facilitates seamless communic
 - Trijeet Kr. Modak
   - GitHub: [uniquetrij](https://github.com/uniquetrij)
 
+## Flutter Flow Project URL 
+Watch the ZLife project on Flutterflow: [ZLife Project](https://app.flutterflow.io/run/H1QSoqB0wr3X0kCD9thd)
+
 ## Demo Video
-Watch the ZLife demo video on YouTube: [ZLife Demo](https://youtu.be/demo-video-link)
+Watch the ZLife demo video on YouTube: [ZLife Video](https://youtu.be/demo-video-link)
