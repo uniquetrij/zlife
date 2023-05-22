@@ -63,11 +63,13 @@ The app includes an instant messaging feature that facilitates seamless communic
 
 ## Flutter Flow Project URL 
 Find our ZLife project on Flutterflow : [ZLife Project](https://app.flutterflow.io/project/sust-me-tukv3j)
+
 Watch the ZLife project on Flutterflow: [ZLife Public URL](https://sust-me-tukv3j.flutterflow.app/)
+
 Run our ZLife project on Flutterflow : [ZLife Run](https://app.flutterflow.io/run/H1QSoqB0wr3X0kCD9thd)
 
 ## Demo Video
-Watch the ZLife demo video on YouTube: [ZLife Video]([https://youtu.be/demo-video-link](https://www.youtube.com/playlist?list=PLoVRvRJfYR1kuafHKoAsOOHcmoXG8Y1MJ))
+Watch the ZLife demo video on YouTube: [ZLife Video](https://www.youtube.com/playlist?list=PLoVRvRJfYR1kuafHKoAsOOHcmoXG8Y1MJ)
 
 ## Conclusion
 
