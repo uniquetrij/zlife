@@ -1,6 +1,6 @@
 # ZLife
 
-<p style="text-align: center;"><img src="https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/sust-me-tukv3j/assets/2rsnqahc5olo/ZLife.png" alt="ZLife Logo" height="200px" style="border-radius: 1%; object-fit: cover;"></p>
+<img src="https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/sust-me-tukv3j/assets/2rsnqahc5olo/ZLife.png" alt="ZLife Logo" height="200px" style="border-radius: 1%; object-fit: cover;">
 
 ## Description
 ZLife is a groundbreaking mobile application driven by the vision to create a sustainable ecosystem where waste becomes a catalyst for positive change. Our motivation stems from the urgent need to address the global waste crisis and transition towards a greener, more sustainable future. With ZLife, we aim to revolutionize waste management by empowering individuals and communities to actively participate in the circular economy and make a lasting impact.
@@ -62,7 +62,16 @@ The app includes an instant messaging feature that facilitates seamless communic
   - GitHub: [uniquetrij](https://github.com/uniquetrij)
 
 ## Flutter Flow Project URL 
-Watch the ZLife project on Flutterflow: [ZLife Project](https://app.flutterflow.io/run/H1QSoqB0wr3X0kCD9thd)
+Find our ZLife project on Flutterflow : [ZLife Project](https://app.flutterflow.io/project/sust-me-tukv3j)
+Watch the ZLife project on Flutterflow: [ZLife Public URL](https://sust-me-tukv3j.flutterflow.app/)
+Run our ZLife project on Flutterflow : [ZLife Run](https://app.flutterflow.io/run/H1QSoqB0wr3X0kCD9thd)
 
 ## Demo Video
-Watch the ZLife demo video on YouTube: [ZLife Video](https://youtu.be/demo-video-link)
+Watch the ZLife demo video on YouTube: [ZLife Video]([https://youtu.be/demo-video-link](https://www.youtube.com/playlist?list=PLoVRvRJfYR1kuafHKoAsOOHcmoXG8Y1MJ))
+
+## Conclusion
+
+ZLife is not just a mobile application; it is a transformative movement towards a more sustainable and inclusive world. With our innovative features, unwavering motivation, and commitment to driving change, we are confident that ZLife will revolutionize waste management and inspire individuals to become proactive waste warriors. Together, we can transition from traditional high carbon footprints to a greener, more resilient future. Join us on this extraordinary journey and be a part of the ZLife revolution. Together, let's create a world where waste becomes the foundation for positive change.
+
+<img src="https://hnexafstehowaxwxdhcq.supabase.co/storage/v1/object/public/asset/21-1.png" alt="ZLife Logo" width="100%" style="border-radius: 1%; object-fit: cover;">
+
